@@ -1,0 +1,31 @@
+{
+  "employees" : {
+    "-Muh_aSRah7kJewq8C29" : {
+      "firstName" : "Muhammed",
+      "lastName" : "Essa",
+      "email" : "muhammed.essa@gmail.com",
+      "country" : "iraq",
+      "city" : "kirkuk",
+      "phone" : "123-456-7890",
+      "salary" : "10000.00"   
+    },
+    "-Muh_bZAvh7kiazx6D13" : {
+      "firstName" : "Ahmed",
+      "lastName" : "Essa",
+      "email" : "ahmed.essa@gmail.com",
+      "country" : "iraq",
+      "city" : "basra",
+      "phone" : "111-222-3333",
+      "salary" : "12000.00"   
+    },
+    "-Muh_bXAvh3sdfjk7S65" : {
+      "firstName" : "Usama",
+      "lastName" : "Essa",
+      "email" : "usama.essa@gmail.com",
+      "country" : "iraq",
+      "city" : "baghdad",
+      "phone" : "888-777-6699",
+      "salary" : "130000.00"   
+    }
+  }
+}
